@@ -1,0 +1,14 @@
+# Dependências e arquivos de build
+node_modules/
+dist/
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+
+# Arquivos de exportação gerados pela ferramenta
+# (Ignora qualquer arquivo .txt na raiz para manter o repositório limpo)
+/*.txt
+
+# Arquivos do editor
+.vscode/
