@@ -10,16 +10,16 @@ Ele foi criado para acelerar o processo de criação de "contexto" para interaç
 
 A ferramenta é um script único e não possui dependências externas, necessitando apenas do Node.js para ser executada.
 
-1.  **Salvar o Script:** Salve o arquivo `codes.cjs` na pasta raiz do projeto que você deseja analisar.
-2.  **Executar o Servidor:** Abra um terminal na pasta raiz do seu projeto e execute o comando:
+1.  **Salvar o Agregador:** Salve o arquivo `codes.cjs` e a pasta `codestxt` na pasta raiz do projeto que você deseja analisar.
+3.  **Executar o Servidor:** Abra um terminal na pasta raiz do seu projeto e execute o comando:
     ```sh
     node codes.cjs
     ```
-3.  **Acessar a Interface:** Abra seu navegador de internet e acesse o seguinte endereço:
+4.  **Acessar a Interface:** Abra seu navegador de internet e acesse o seguinte endereço:
     ```
     http://localhost:3000
     ```
-4.  **Utilizar e Exportar:** Use a interface web para selecionar os arquivos e exportar o conteúdo. Para parar o servidor, volte ao terminal e pressione `Ctrl+C`.
+5.  **Utilizar e Exportar:** Use a interface web para selecionar os arquivos e exportar o conteúdo. Para parar o servidor, volte ao terminal e pressione `Ctrl+C`.
 
 ---
 
